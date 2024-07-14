@@ -1,0 +1,1 @@
+Designed and assessed a CNN for image classification using the "CIFAR10" dataset, optimizing performance through adjustments to network architecture and regularization techniques, and performed comparative analyses with established networks (AlexNet and ResNet)
